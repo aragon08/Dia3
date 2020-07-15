@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dia3</string>
+    <string name="strWeb">itcelaya.com</string>
+    <string name="strTel">Llamar</string>
+    <string name="strSMS">SMS</string>
+    <string name="strEmail">Email</string>
+    <string name="strFoto">Foto</string>
+    <string name="strNombre">Carlos Aragon</string>
+    <string name="strEmailDev">aragon.c08@gmail.com</string>
+    <string name="strTelDev">4641016554</string>
+    <string name="opc1">Acerca De</string>
+</resources>
